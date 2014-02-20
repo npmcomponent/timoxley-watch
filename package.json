@@ -1,0 +1,10 @@
+{
+  "name": "timoxley-watch",
+  "description": "Watch the changes of any object or attribute.",
+  "version": "0.0.4",
+  "keywords": [],
+  "dependencies": {
+    "jkroso-equals": "git://github.com/npmcomponent/jkroso-equals.git"
+  },
+  "license": "MIT"
+}

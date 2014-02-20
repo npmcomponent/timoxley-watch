@@ -27,7 +27,7 @@
         window.callWatchers = window.WatchJS.callWatchers;
     }
 }(function () {
-    var equals = require('equals');
+    var equals = require('jkroso-equals');
 
     var WatchJS = {
         noMore: false
